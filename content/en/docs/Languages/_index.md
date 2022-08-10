@@ -1,8 +1,7 @@
-
 ---
-title: "Core Tasks"
-linkTitle: "Core Tasks"
-weight: 6
+title: "Languages"
+linkTitle: "Languages"
+weight: 5
 date: 2017-01-05
 description: >
   What can your user do with your project?

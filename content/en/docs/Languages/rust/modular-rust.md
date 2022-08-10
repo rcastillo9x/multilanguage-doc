@@ -1,6 +1,6 @@
 ---
-title: "Launching Ponycopters"
-linkTitle: "Launching Ponycopters"
+title: "Modular Rust"
+linkTitle: "Modular"
 date: 2017-01-05
 weight: 3
 description: >

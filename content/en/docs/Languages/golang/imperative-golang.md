@@ -1,7 +1,8 @@
 ---
-title: "Multi-Bear Domicile Setup"
+title: "Imperative"
+linkTitle: "Imperative"
 date: 2017-01-05
-weight: 4
+weight: 3
 description: >
   A short lead description about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
 ---
