@@ -3,15 +3,80 @@ title: "Concepts"
 linkTitle: "Concepts"
 weight: 4
 description: >
-  What does your user need to understand about your project in order to use it - or potentially contribute to it? 
+  In this section we define the generic topics to be reviewed in each of the languages and give examples of their implementation in each one.
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
 
-For many projects, users may not need much information beyond the information in the [Overview](/docs/overview/), so this section is **optional**. However if there are areas where your users will need a more detailed understanding of a given term or feature in order to do anything useful with your project (or to not make mistakes when using it) put that information in this section. For example, you may want to add some conceptual pages if you have a large project with many components and a complex architecture.
 
-Remember to focus on what the user needs to know, not just what you think is interesting about your project! If they don’t need to understand your original design decisions to use or contribute to the project, don’t put them in, or include your design docs in your repo and link to them. Similarly, most users will probably need to know more about how features work when in use rather than how they are implemented. Consider a separate architecture page for more detailed implementation and system design information that potential project contributors can consult.
+The topics to be reviewed in each language are as follows
+### Basic Features
+
+* Comments
+  * Single-line comments
+  * Multi-line comments
+* Main
+ * Simple console output
+* Compile / Debug
+  * How to compile and debug
+#### Type handling
+* Constant
+* Define a variable
+* Numbers
+    * Integer
+        * Signed
+        * Unsigned
+* Floating Point
+    * 32bit
+    * 64bit
+* Characters & Strings
+    * String
+    * Char
+    * Concatenation
+* Boolean
+* Enum
+* Pointers
+* Special types
+  * Undefined
+  * Type Union
+#### Declaring Variables
+* Variables
+    * Explicit
+    * Implicit
+* Multiple declarations 
+  * In the same line
+  * By grouping
+* Type validation
+* Casting Data Types
+  * Numbers to strings and vice versa
+  * Date to strings and vice versa
+* Pointers   
+* Mutability / Immutability
+#### Operators
+* Arithmetic
+* Bitwise
+* Comparison
+* Logical
+* Bitwise
+* Conditional
+
+#### Flow
+##### Decision
+    * Simple
+    * Nested
+    * Multiple
+##### Loop
+    * Simple
+    * Range
+    * Recursion
+
+#### Error Handling
+
+### Modular Oriented paradigm
+### Object Oriented paradigm
+
+### Functional paradigm 
+
+
+### Data structure
 
 
